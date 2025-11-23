@@ -132,7 +132,7 @@ When you first launch TU Scheduler:
 
 ### End Users (Production)
 
-1. Download `TU-Scheduler-Setup-1.0.0.exe`
+1. Download [TU.Scheduler.exe](https://github.com/KwiteeGaylah/TU_Scheduler/releases/download/V1/TU.Scheduler.exe)
 2. Run installer and follow wizard
 3. Launch from Start Menu or Desktop
 4. Login and complete first-time setup
