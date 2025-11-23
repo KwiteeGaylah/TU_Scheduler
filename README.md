@@ -8,20 +8,20 @@ Automated academic scheduling with conflict detection and timetable generation
 
 ##  Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Quick Start](#-quick-start)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Documentation](#-documentation)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Development](#-development)
-- [Security](#-security)
-- [Testing](#-testing)
-- [Deployment](#-deployment)
-- [Troubleshooting](#-troubleshooting)
-- [License](#-license)
+- [Overview](#overview)
+- [Features](#features)
+- [Quick Start](#quick-start)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Development](#development)
+- [Security](#security)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
 
 ---
 
