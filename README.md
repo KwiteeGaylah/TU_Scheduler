@@ -43,6 +43,22 @@ Automated academic scheduling with conflict detection and timetable generation
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Preview
+
+<div align="center">
+
+**Light Mode Dashboard**  
+<img src="./docs/images/Light mode view.png" alt="TU Scheduler Light Mode Dashboard" width="800"/>
+
+**Dark Mode Dashboard**  
+<img src="./docs/images/darkmode view.png" alt="TU Scheduler Dark Mode Dashboard" width="800"/>
+
+</div>
+
+---
+
 ##  Features
 
 ### Core Functionality
